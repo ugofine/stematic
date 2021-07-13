@@ -1,0 +1,1568 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$ydXmKOkfzEqlbXCkC8zlZ6$ttjwFZg7KC4CvgIbBTS3cIBMWrpdhm8iIzXIkCI2ICQ=",
+        "last_login": "2021-07-06T10:12:08.324Z",
+        "is_superuser": true,
+        "username": "ugomma",
+        "first_name": "",
+        "last_name": "",
+        "email": "dabbyg21@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-06-14T08:45:23.325Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "5f1xge89kkv4i4nm85snzdhfg3szicih",
+    "fields": {
+        "session_data": ".eJxVzMEOwiAQBNB_4WwIbLu0ePTebyALC1I1NCntyfjv0qQHvc68mbdwtG_Z7TWubmZxFVpcfjNP4RnLUfCDyn2RYSnbOnt5EHm2VU4Lx9fttH8HmWpuawpsEXSEYKEffN8BmDAioGL22sOQUHWWIyRGwyMkrSMqakgZ1ZT4fAHU0Dcm:1lsiEa:0XTLGLSdKmy1WtoLfYjqGxaHt_f-N7UlgsqE7vJTXj4",
+        "expire_date": "2021-06-28T08:46:16.785Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "lbctps1fewwoodscbya9yzka9x6k97nb",
+    "fields": {
+        "session_data": ".eJxVzMEOwiAQBNB_4WwIbLu0ePTebyALC1I1NCntyfjv0qQHvc68mbdwtG_Z7TWubmZxFVpcfjNP4RnLUfCDyn2RYSnbOnt5EHm2VU4Lx9fttH8HmWpuawpsEXSEYKEffN8BmDAioGL22sOQUHWWIyRGwyMkrSMqakgZ1ZT4fAHU0Dcm:1m0i3k:-fS7qUkaVi1DV_mWofY1gD3bR_2z6LhTsCsKm3ZdMDU",
+        "expire_date": "2021-07-20T10:12:08.379Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "w5ebhyturzb5ks13rg4n4ovy28r0fopk",
+    "fields": {
+        "session_data": ".eJxVzMEOwiAQBNB_4WwIbLu0ePTebyALC1I1NCntyfjv0qQHvc68mbdwtG_Z7TWubmZxFVpcfjNP4RnLUfCDyn2RYSnbOnt5EHm2VU4Lx9fttH8HmWpuawpsEXSEYKEffN8BmDAioGL22sOQUHWWIyRGwyMkrSMqakgZ1ZT4fAHU0Dcm:1lt6LC:_yss66oSfUZsl2nUPA8UBU7edp0nnyJUZnn34y6O8H8",
+        "expire_date": "2021-06-29T10:30:42.793Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "xndy5e5mctmsmj6v3q0rgwbr8xrkdaho",
+    "fields": {
+        "session_data": ".eJxVzMEOwiAQBNB_4WwIbLu0ePTebyALC1I1NCntyfjv0qQHvc68mbdwtG_Z7TWubmZxFVpcfjNP4RnLUfCDyn2RYSnbOnt5EHm2VU4Lx9fttH8HmWpuawpsEXSEYKEffN8BmDAioGL22sOQUHWWIyRGwyMkrSMqakgZ1ZT4fAHU0Dcm:1lyB1E:fMNi81pWg8nN2YqTolWBsnfWkYO5-Z_1lY0OWfCtTAI",
+        "expire_date": "2021-07-13T10:31:04.164Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "name": "tom ben",
+        "phone": "23456666",
+        "email": "aa@gmail.com",
+        "subject": "hello world",
+        "message": "hi"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "name": "mary glow",
+        "phone": "23456666",
+        "email": "info@yahoo.com",
+        "subject": "request",
+        "message": "hello wotld"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "name": "ada mmma",
+        "phone": "08076543234",
+        "email": "dammy@gmail.com",
+        "subject": "hello world",
+        "message": "nice work"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "name": "kiki",
+        "phone": "08076543234",
+        "email": "ki@yahoo.com",
+        "subject": "good",
+        "message": "does it work"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "name": "jon",
+        "phone": "2222222",
+        "email": "oke@yahoo.com",
+        "subject": "check",
+        "message": "see this"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "name": "tom ben",
+        "phone": "2222222",
+        "email": "aa@gmail.com",
+        "subject": "request",
+        "message": "hyhh hyyhh hyyh"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 7,
+    "fields": {
+        "name": "tttttt",
+        "phone": "2222222",
+        "email": "aa@gmail.com",
+        "subject": "seeeeeee",
+        "message": "seeeeee"
+    }
+},
+{
+    "model": "blog.blog",
+    "pk": 1,
+    "fields": {
+        "title": "Understanding How to grow Technology Skills",
+        "photo": "photo/2021/06/15/dv.png",
+        "content": "There are several ways you can start your career in technolgy. You only need to have the passion and interest",
+        "created_date": "2021-06-15T12:25:37Z",
+        "author": "Roselyn",
+        "category": 2
+    }
+},
+{
+    "model": "blog.blog",
+    "pk": 2,
+    "fields": {
+        "title": "STEM Education and the gains",
+        "photo": "photo/2021/06/15/stem2_yoMOvHi.jpg",
+        "content": "We have seen the importance of starting your early career in STEM",
+        "created_date": "2021-06-15T12:57:04Z",
+        "author": "Oladele",
+        "category": 2
+    }
+},
+{
+    "model": "blog.blog",
+    "pk": 3,
+    "fields": {
+        "title": "How to Start Your Career Journey",
+        "photo": "photo/2021/06/23/lab.webp",
+        "content": "Often times we hear people say they don't know how to start their career. It is important to seek for help early so as to avoid mistakes",
+        "created_date": "2021-06-23T11:47:55Z",
+        "author": "Admin",
+        "category": 3
+    }
+},
+{
+    "model": "blog.blog",
+    "pk": 4,
+    "fields": {
+        "title": "Managing Mistakes in Life",
+        "photo": "photo/2021/06/23/techcareer.webp",
+        "content": "We all  make mistakes at some point in our lives, but we should be ready to correct it, learn the lessons and move on.",
+        "created_date": "2021-06-23T11:49:59Z",
+        "author": "Chioma",
+        "category": 1
+    }
+},
+{
+    "model": "blog.blog",
+    "pk": 5,
+    "fields": {
+        "title": "Starting in the Right Direction",
+        "photo": "photo/2021/06/29/library1.jpg",
+        "content": "Whenever you want to think of encouraging a child to take up career path, you need to discuss with  him or her to have an idea of what they want to become. Also observe the kind of plays and regular activities they enjoy doing at home or in school. This will help you to understand to an extent what interests them, while you try to introduce STEAM learning to them.\r\nDon't make the mistake of imposing it on them or being forceful. It will result in frustration.",
+        "created_date": "2021-06-29T11:26:26Z",
+        "author": "Wale Ojo",
+        "category": 3
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 1,
+    "fields": {
+        "author": "Vera Ojo",
+        "body": "Thank you for sharing this post, it is very important and good we learn how to grow our careers",
+        "created_date": "2021-06-28T12:58:12Z",
+        "blog": 2
+    }
+},
+{
+    "model": "stematic.stem",
+    "pk": 1,
+    "fields": {
+        "title": "Learning Engineering",
+        "description": "Do you want to know more about the engineering career",
+        "users": 40,
+        "reviews": 25,
+        "photo": "photo/2021/06/15/st.jpg",
+        "teacher": "Jonah Musa",
+        "phototeacher": "photo/2021/06/15/debbie.jpg"
+    }
+},
+{
+    "model": "stematic.stem",
+    "pk": 2,
+    "fields": {
+        "title": "Robotic Technology",
+        "description": "This is a new technology in town,,",
+        "users": 19,
+        "reviews": 10,
+        "photo": "photo/2021/06/15/stem2_VdQAbKd.jpg",
+        "teacher": "Mercy Ojo",
+        "phototeacher": "photo/2021/06/15/debbie_sHTC22P.jpg"
+    }
+},
+{
+    "model": "stematic.stem",
+    "pk": 3,
+    "fields": {
+        "title": "Arts in science",
+        "description": "check it",
+        "users": 34,
+        "reviews": 15,
+        "photo": "photo/2021/06/15/edu_tCUL7MZ.jpg",
+        "teacher": "Ngozi",
+        "phototeacher": "photo/2021/07/01/child2.jpg"
+    }
+},
+{
+    "model": "stematic.stem",
+    "pk": 4,
+    "fields": {
+        "title": "Infotech for Children",
+        "description": "Check it out",
+        "users": 12,
+        "reviews": 5,
+        "photo": "photo/2021/06/15/library1.jpg",
+        "teacher": "Wale",
+        "phototeacher": "photo/2021/07/01/child3_YIH3ITr.jpg"
+    }
+},
+{
+    "model": "stematic.stem",
+    "pk": 5,
+    "fields": {
+        "title": "Engineering Tour",
+        "description": "Start your childs career by introducing engineering at early age.",
+        "users": 5,
+        "reviews": 5,
+        "photo": "photo/2021/07/01/steemm_cQZ9xoU.jpg",
+        "teacher": "Anderson",
+        "phototeacher": "photo/2021/07/01/child3.jpg"
+    }
+},
+{
+    "model": "stematic.stem",
+    "pk": 6,
+    "fields": {
+        "title": "Toddlers Learning Pack",
+        "description": "You can make learning fun for your toddler by allowing them explore their creativity.",
+        "users": 10,
+        "reviews": 4,
+        "photo": "photo/2021/07/01/robotic2.jpg",
+        "teacher": "Joe Oke",
+        "phototeacher": "photo/2021/07/01/IMG_20210523_102148_504.jpg"
+    }
+},
+{
+    "model": "events.event",
+    "pk": 4,
+    "fields": {
+        "title": "Robotic Technology Workshop",
+        "description": "This program is for primary school children within the age 7-9years old during summer",
+        "photo": "photo/2021/06/22/robotic2.jpg",
+        "location": "lagos",
+        "date": "2021-06-20T10:25:40Z"
+    }
+},
+{
+    "model": "events.event",
+    "pk": 5,
+    "fields": {
+        "title": "Learning Engineering",
+        "description": "This is an introduction to Engineering for  early  secondary school students.",
+        "photo": "photo/2021/06/22/kids.jpg",
+        "location": "Lagos",
+        "date": "2021-07-07T10:27:43Z"
+    }
+},
+{
+    "model": "events.event",
+    "pk": 6,
+    "fields": {
+        "title": "Introduction to STEAM",
+        "description": "This is a program for beginners to learn about the necessary skills they need to grow.",
+        "photo": "photo/2021/06/22/101-Engineering-STEM-Activities-for-Kids.png",
+        "location": "Lagos,ikeja",
+        "date": "2021-06-25T12:00:00Z"
+    }
+},
+{
+    "model": "events.event",
+    "pk": 7,
+    "fields": {
+        "title": "Beginners Path to Technology",
+        "description": "Do you want to introduce your kids early to technology .",
+        "photo": "photo/2021/07/01/steemm.jpg",
+        "location": "Lagos, Nigeria",
+        "date": "2021-07-22T22:36:44Z"
+    }
+},
+{
+    "model": "category.category",
+    "pk": 1,
+    "fields": {
+        "name": "engineering",
+        "slug": "engineering"
+    }
+},
+{
+    "model": "category.category",
+    "pk": 2,
+    "fields": {
+        "name": "technology",
+        "slug": "technology"
+    }
+},
+{
+    "model": "category.category",
+    "pk": 3,
+    "fields": {
+        "name": "learning",
+        "slug": "learning"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-06-14T21:10:38.273Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "2",
+        "object_repr": "Early Science and Engineering for Children",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-06-14T21:12:14.923Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "3",
+        "object_repr": "Robotic For Children",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-06-15T09:24:33.007Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "3",
+        "object_repr": "Robotic For Children",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-06-15T09:24:33.144Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "2",
+        "object_repr": "Early Science and Engineering for Children",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-06-15T09:41:49.269Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "4",
+        "object_repr": "Early Science and Engineering for Children",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-06-15T09:42:27.353Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "5",
+        "object_repr": "Robotic For Children",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-06-15T09:43:26.547Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "6",
+        "object_repr": "Stem courses",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-06-15T09:44:25.995Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "4",
+        "object_repr": "Early Science and Engineering for Children",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\", \"Teacher photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-06-15T10:31:22.420Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "courses",
+            "course"
+        ],
+        "object_id": "6",
+        "object_repr": "Stem courses",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-06-15T11:56:59.284Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "1",
+        "object_repr": "Understanding How to grow Technology Skills",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-06-15T12:09:39.462Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "2",
+        "object_repr": "STEM Education and the gains",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-06-15T12:40:46.542Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "2",
+        "object_repr": "STEM Education and the gains",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-06-15T12:51:23.238Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "2",
+        "object_repr": "STEM Education and the gains",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-06-15T12:51:48.940Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "1",
+        "object_repr": "Understanding How to grow Technology Skills",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-06-15T19:48:54.617Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "1",
+        "object_repr": "Learning Engineering",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-06-15T19:49:50.082Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "2",
+        "object_repr": "Robotic Technology",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-06-15T19:59:59.196Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "2",
+        "object_repr": "Robotic Technology",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-06-15T20:00:54.494Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "3",
+        "object_repr": "Arts in science",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-06-15T20:02:37.185Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "4",
+        "object_repr": "Infotech for Children",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-06-15T20:46:24.704Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "1",
+        "object_repr": "Learning Engineering",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-06-17T11:53:23.494Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "1",
+        "object_repr": "Robotic Technology",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-06-17T11:54:13.774Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "2",
+        "object_repr": "New Engineering for fun",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2021-06-17T21:47:11.795Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "3",
+        "object_repr": "Teacher Training for Learning",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2021-06-22T09:24:32.782Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "3",
+        "object_repr": "Teacher Training for Learning",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2021-06-22T09:24:33.067Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "2",
+        "object_repr": "New Engineering for fun",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2021-06-22T09:24:33.073Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "1",
+        "object_repr": "Robotic Technology",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2021-06-22T09:26:16.658Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "4",
+        "object_repr": "Robotic Technology",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2021-06-22T09:27:02.820Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "4",
+        "object_repr": "Robotic Technology",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Date\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2021-06-22T09:28:19.262Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "5",
+        "object_repr": "The Growth in Housing Need",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2021-06-22T10:01:30.725Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "6",
+        "object_repr": "Introduction to STEAM",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2021-06-22T10:01:47.963Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "5",
+        "object_repr": "Learning Engineering",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2021-06-22T10:04:17.690Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "5",
+        "object_repr": "Learning Engineering",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Date\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2021-06-23T09:17:32.306Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "4",
+        "object_repr": "Robotic Technology",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2021-06-23T09:18:17.490Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "5",
+        "object_repr": "Learning Engineering",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2021-06-23T09:18:49.904Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "6",
+        "object_repr": "Introduction to STEAM",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2021-06-23T09:24:36.617Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "4",
+        "object_repr": "Robotic Technology",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2021-06-23T09:25:00.375Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "5",
+        "object_repr": "Learning Engineering",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Date\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2021-06-23T09:25:36.703Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "6",
+        "object_repr": "Introduction to STEAM",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Date\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2021-06-23T10:49:42.591Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "3",
+        "object_repr": "How to Start Your Career Journey",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2021-06-23T10:51:25.367Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "4",
+        "object_repr": "Managing Mistakes in Life",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2021-06-28T12:04:59.476Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "comment"
+        ],
+        "object_id": "1",
+        "object_repr": "Thank you for sharing this post, it is very important and good we learn how to grow our careers",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Author\", \"Body\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2021-06-29T10:30:27.393Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "5",
+        "object_repr": "Starting in the Right Direction",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2021-06-29T10:31:29.219Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "5",
+        "object_repr": "Starting in the Right Direction",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2021-06-29T10:36:03.849Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "5",
+        "object_repr": "Starting in the Right Direction",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2021-06-29T20:23:02.104Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "1",
+        "object_repr": "Robotic Kit",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2021-06-29T20:24:06.591Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "2",
+        "object_repr": "STEM Blocks",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2021-06-29T20:25:13.731Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "3",
+        "object_repr": "Automatic Construction",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2021-07-01T09:41:14.891Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "category",
+            "category"
+        ],
+        "object_id": "1",
+        "object_repr": "engineering",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2021-07-01T09:41:27.483Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "category",
+            "category"
+        ],
+        "object_id": "2",
+        "object_repr": "technology",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2021-07-01T09:41:39.777Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "category",
+            "category"
+        ],
+        "object_id": "3",
+        "object_repr": "learning",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2021-07-01T09:42:27.539Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "5",
+        "object_repr": "Starting in the Right Direction",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2021-07-01T09:42:40.038Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "1",
+        "object_repr": "Understanding How to grow Technology Skills",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2021-07-01T09:42:53.018Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "4",
+        "object_repr": "Managing Mistakes in Life",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2021-07-01T09:43:06.411Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "2",
+        "object_repr": "STEM Education and the gains",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2021-07-01T09:43:17.147Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "blog",
+            "blog"
+        ],
+        "object_id": "3",
+        "object_repr": "How to Start Your Career Journey",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2021-07-01T21:22:08.615Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "4",
+        "object_repr": "STEM Starter Pack",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2021-07-01T21:38:13.231Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "7",
+        "object_repr": "Beginners Path to Technology",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2021-07-01T21:41:52.919Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "5",
+        "object_repr": "Engineering Tour Project",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2021-07-01T21:44:05.106Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "6",
+        "object_repr": "Toddlers Learning Pack",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2021-07-01T21:45:29.674Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "3",
+        "object_repr": "Arts in science",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Phototeacher\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2021-07-01T21:45:50.721Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "4",
+        "object_repr": "Infotech for Children",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Phototeacher\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2021-07-02T16:03:38.801Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "5",
+        "object_repr": "Engineering Tour",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2021-07-03T13:35:12.288Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "stematic",
+            "stem"
+        ],
+        "object_id": "6",
+        "object_repr": "Toddlers Learning Pack",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2021-07-04T15:04:22.607Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "4",
+        "object_repr": "Robotic Technology Workshop",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2021-07-04T15:04:56.755Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "4",
+        "object_repr": "Robotic Technology Workshop",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2021-07-04T15:05:32.397Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "4",
+        "object_repr": "Robotic Technology Workshop",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2021-07-04T15:19:29.140Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "5",
+        "object_repr": "Learning Engineering",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2021-07-04T15:20:02.729Z",
+        "user": [
+            "ugomma"
+        ],
+        "content_type": [
+            "events",
+            "event"
+        ],
+        "object_id": "7",
+        "object_repr": "Beginners Path to Technology",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+}
+]
