@@ -85,17 +85,17 @@ WSGI_APPLICATION = 'educational.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-DATABASES = {
-     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'education',
-        'USER': 'postgres',
-        'PASSWORD': 'alaezi21',
-        'HOST': 'localhost',
-        'PORT': '',
-    }
-}
-# DATABASE ={'default': dj_database_url.config (default='postgres://postgres:alaezi@localhost/educational_db')}
+# DATABASES = {
+#      'default': {
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': 'education',
+#         'USER': 'postgres',
+#         'PASSWORD': 'alaezi21',
+#         'HOST': 'localhost',
+#         'PORT': '',
+#     }
+# }
+DATABASE ={'default': dj_database_url.config (default='postgres://postgres:alaezi@localhost/education_db')}
 
 
 # Password validation

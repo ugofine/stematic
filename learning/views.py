@@ -14,7 +14,6 @@ def home(request):
     blogs = Blog.objects.all()
     return render(request, 'pages/index.html', {'stematic': stematic, 'events': events, 'blogs': blogs})
     
-
 def about(request):
     return render(request, 'pages/about.html')
 
